@@ -6,6 +6,4 @@
 
 [![NecroLink](https://github-readme-stats.vercel.app/api/pin/?username=XeinTDM&repo=NecroLink&theme=city_lights)](https://github.com/XeinTDM/NecroLink)  [![PyRansom](https://github-readme-stats.vercel.app/api/pin/?username=XeinTDM&repo=PyRansom&theme=city_lights)](https://github.com/XeinTDM/PyRansom)
 
-![Stats fr](https://github-readme-stats.vercel.app/api?username=XeinTDM&show_icons=true&theme=city_lights)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeinTDM&layout=compact&theme=city_lights)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeinTDM&size_weight=0.5&count_weight=0.5&theme=city_lights&langs_count=3)  ![Stats fr](https://github-readme-stats.vercel.app/api?username=XeinTDM&show_icons=true&theme=city_lights)
