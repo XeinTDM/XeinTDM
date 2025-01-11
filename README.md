@@ -2,7 +2,7 @@
 
 ![BannerXein](https://github.com/XeinTDM/XeinTDM/assets/100153223/c26b25f6-a38e-4032-8265-b84468491f98)
 
-[![Opportunist](https://github-readme-stats.vercel.app/api/pin/?username=XeinTDM&repo=Opportunist&show_icons=true&theme=transparent&hide_border=true&text_color=CCCCCC&title_color=CCCCCC&icon_color=CCCCCC)](https://github.com/XeinTDM/TikTokSlideGen)  [![SteamTokenDump](https://github-readme-stats.vercel.app/api/pin/?username=XeinTDM&repo=SteamTokenDump&show_icons=true&theme=transparent&hide_border=true&text_color=CCCCCC&title_color=CCCCCC&icon_color=CCCCCC)](https://github.com/XeinTDM/TikTokSlideGen)
+[![Opportunist](https://github-readme-stats.vercel.app/api/pin/?username=XeinTDM&repo=Opportunist&show_icons=true&theme=transparent&hide_border=true&text_color=CCCCCC&title_color=CCCCCC&icon_color=CCCCCC)](https://github.com/XeinTDM/Opportunist)  [![SteamTokenDump](https://github-readme-stats.vercel.app/api/pin/?username=XeinTDM&repo=SteamTokenDump&show_icons=true&theme=transparent&hide_border=true&text_color=CCCCCC&title_color=CCCCCC&icon_color=CCCCCC)](https://github.com/XeinTDM/SteamTokenDump)
 
 [![NecroLink](https://github-readme-stats.vercel.app/api/pin/?username=XeinTDM&repo=NecroLink&show_icons=true&theme=transparent&hide_border=true&text_color=CCCCCC&title_color=CCCCCC&icon_color=CCCCCC)](https://github.com/XeinTDM/NecroLink)  [![PyRansom](https://github-readme-stats.vercel.app/api/pin/?username=XeinTDM&repo=PyRansom&show_icons=true&theme=transparent&hide_border=true&text_color=CCCCCC&title_color=CCCCCC&icon_color=CCCCCC)](https://github.com/XeinTDM/PyRansom)
 
